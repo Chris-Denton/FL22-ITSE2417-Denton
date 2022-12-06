@@ -53,7 +53,7 @@ public class Itse2417Main
             new FinalProj(),          // Butler K
             new FinalProj(),          // Castaneda
             new FinalProj(),          // Cole
-            new FinalProj(),          // Denton
+            new StarTriangle,         // Denton
             new FinalProj(),          // Doan
             new FinalProj(),          // Gutt
             new FinalProj(),          // Lopez
